@@ -22,38 +22,5 @@
       { "title": "远望", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1126.jpg", "download": "assets/gallery/xidian/DSC_1126.jpg", "alt": "校园远景与山脉" },
       { "title": "楼间", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1129.jpg", "download": "assets/gallery/xidian/DSC_1129.jpg", "alt": "校园宿舍楼之间的蓝天" }
     ]
-  },
-  {
-    "title": "Northern Coast",
-    "tint": "#475b6f",
-    "cover": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1300&q=88",
-    "coverAlt": "A road through rust coloured mountains",
-    "description": "在北方海岸，风、岩石与雾构成了一种缓慢的尺度。",
-    "photos": [
-      { "title": "Misty Headland", "location": "Isle of Skye, Scotland", "year": "2024", "dimensions": "6000 × 4000 px", "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=max&w=5000&q=95", "alt": "Foggy coastline in soft morning light" },
-      { "title": "Tide Lines", "location": "Vík, Iceland", "year": "2024", "dimensions": "7952 × 5304 px", "src": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=max&w=5000&q=95", "alt": "Ocean waves across black sand" }
-    ]
-  },
-  {
-    "title": "Still Forms",
-    "tint": "#536147",
-    "cover": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=crop&w=1300&q=88",
-    "coverAlt": "Dense green foliage seen from above",
-    "description": "静止的形态并不安静；它们在光线里持续生长。",
-    "photos": [
-      { "title": "Wild Iris", "location": "Hokkaido, Japan", "year": "2025", "dimensions": "4480 × 6720 px", "src": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1497250681960-ef046c08a56e?auto=format&fit=max&w=5000&q=95", "alt": "Green foliage seen from above" },
-      { "title": "Soft Water", "location": "Kochi, Japan", "year": "2025", "dimensions": "6240 × 4160 px", "src": "https://images.unsplash.com/photo-1439853949127-fa647821eba0?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1439853949127-fa647821eba0?auto=format&fit=max&w=5000&q=95", "alt": "A waterfall in a green forest" }
-    ]
-  },
-  {
-    "title": "After Dusk",
-    "tint": "#70503d",
-    "cover": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1300&q=88",
-    "coverAlt": "A Japanese street at blue hour",
-    "description": "在日光退出之后，城市开始用自己的节奏发光。",
-    "photos": [
-      { "title": "Red Quiet", "location": "Kyoto, Japan", "year": "2025", "dimensions": "6000 × 4000 px", "src": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=max&w=5000&q=95", "alt": "Traditional Japanese street at dusk" },
-      { "title": "Arc of Light", "location": "Patagonia, Argentina", "year": "2024", "dimensions": "6048 × 4024 px", "src": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=max&w=3000&q=90", "download": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=max&w=5000&q=95", "alt": "Road through a vast mountain landscape" }
-    ]
   }
 ]

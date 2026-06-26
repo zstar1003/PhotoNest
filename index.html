@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="./styles.css?v=20260626-4" />
+    <link rel="stylesheet" href="./styles.css?v=20260626-5" />
   </head>
   <body>
     <div class="noise" aria-hidden="true"></div>
@@ -36,7 +36,10 @@
       <div class="reader-stage">
         <button class="page-hit prev" id="previous-page" type="button" aria-label="上一页"></button>
         <figure class="photo-page" id="photo-page">
-          <div class="image-frame"><img id="reader-image" alt="" /></div>
+          <div class="image-frame" id="image-frame" aria-busy="true">
+            <img class="reader-image" id="reader-image-a" alt="" />
+            <img class="reader-image" id="reader-image-b" alt="" />
+          </div>
           <figcaption>
             <span id="photo-caption"></span>
             <span id="photo-details"></span>
@@ -53,6 +56,6 @@
 
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
     <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
-    <script src="./app.js?v=20260626-4"></script>
+    <script src="./app.js?v=20260626-5"></script>
   </body>
 </html>
