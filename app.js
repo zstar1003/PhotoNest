@@ -123,7 +123,7 @@ document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape') closeAlbum();
 });
 
-fetch('./gallery.json?v=20260626-3')
+fetch('./gallery.json?v=20260626-4')
   .then((response) => { if (!response.ok) throw new Error('Could not load albums'); return response.json(); })
   .then((data) => { albums = data; renderShelf(); })
   .catch(() => showToast('相册暂时无法加载。请检查 gallery.json。'));
