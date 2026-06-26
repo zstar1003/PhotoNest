@@ -6,21 +6,21 @@
     "coverAlt": "西安电子科技大学校园景观",
     "description": "西安电子科技大学的夏日光影：建筑、林荫、走廊与日常。",
     "photos": [
-      { "title": "林荫", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1021.jpg", "download": "assets/gallery/xidian/DSC_1021.jpg", "alt": "校园林荫与教学楼" },
-      { "title": "博物馆", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1036.jpg", "download": "assets/gallery/xidian/DSC_1036.jpg", "alt": "西电博物馆建筑" },
-      { "title": "立面", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1038.jpg", "download": "assets/gallery/xidian/DSC_1038.jpg", "alt": "蓝天下的校园建筑立面" },
-      { "title": "夏日市集", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1044.jpg", "download": "assets/gallery/xidian/DSC_1044.jpg", "alt": "校园活动展板" },
-      { "title": "教学楼", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1047.jpg", "download": "assets/gallery/xidian/DSC_1047.jpg", "alt": "校园教学楼外观" },
-      { "title": "图书馆", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1051.jpg", "download": "assets/gallery/xidian/DSC_1051.jpg", "alt": "校园图书馆" },
-      { "title": "展台", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1063.jpg", "download": "assets/gallery/xidian/DSC_1063.jpg", "alt": "校园展览活动" },
-      { "title": "中庭", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1080.jpg", "download": "assets/gallery/xidian/DSC_1080.jpg", "alt": "教学楼中庭" },
-      { "title": "走廊", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1081.jpg", "download": "assets/gallery/xidian/DSC_1081.jpg", "alt": "校园走廊" },
-      { "title": "球场", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1097.jpg", "download": "assets/gallery/xidian/DSC_1097.jpg", "alt": "校园球场" },
-      { "title": "栅影", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1101.jpg", "download": "assets/gallery/xidian/DSC_1101.jpg", "alt": "树影下的校园围栏" },
-      { "title": "产业楼", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1111.jpg", "download": "assets/gallery/xidian/DSC_1111.jpg", "alt": "校园产业楼" },
-      { "title": "宿舍", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1114.jpg", "download": "assets/gallery/xidian/DSC_1114.jpg", "alt": "校园宿舍楼" },
-      { "title": "远望", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1126.jpg", "download": "assets/gallery/xidian/DSC_1126.jpg", "alt": "校园远景与山脉" },
-      { "title": "楼间", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1129.jpg", "download": "assets/gallery/xidian/DSC_1129.jpg", "alt": "校园宿舍楼之间的蓝天" }
+      { "title": "林荫", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1021.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1021-thumb.jpg", "download": "assets/gallery/xidian/DSC_1021.jpg", "alt": "校园林荫与教学楼" },
+      { "title": "博物馆", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1036.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1036-thumb.jpg", "download": "assets/gallery/xidian/DSC_1036.jpg", "alt": "西电博物馆建筑" },
+      { "title": "立面", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1038.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1038-thumb.jpg", "download": "assets/gallery/xidian/DSC_1038.jpg", "alt": "蓝天下的校园建筑立面" },
+      { "title": "夏日市集", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1044.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1044-thumb.jpg", "download": "assets/gallery/xidian/DSC_1044.jpg", "alt": "校园活动展板" },
+      { "title": "教学楼", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1047.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1047-thumb.jpg", "download": "assets/gallery/xidian/DSC_1047.jpg", "alt": "校园教学楼外观" },
+      { "title": "图书馆", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1051.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1051-thumb.jpg", "download": "assets/gallery/xidian/DSC_1051.jpg", "alt": "校园图书馆" },
+      { "title": "展台", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1063.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1063-thumb.jpg", "download": "assets/gallery/xidian/DSC_1063.jpg", "alt": "校园展览活动" },
+      { "title": "中庭", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1080.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1080-thumb.jpg", "download": "assets/gallery/xidian/DSC_1080.jpg", "alt": "教学楼中庭" },
+      { "title": "走廊", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1081.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1081-thumb.jpg", "download": "assets/gallery/xidian/DSC_1081.jpg", "alt": "校园走廊" },
+      { "title": "球场", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1097.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1097-thumb.jpg", "download": "assets/gallery/xidian/DSC_1097.jpg", "alt": "校园球场" },
+      { "title": "栅影", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1101.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1101-thumb.jpg", "download": "assets/gallery/xidian/DSC_1101.jpg", "alt": "树影下的校园围栏" },
+      { "title": "产业楼", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1111.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1111-thumb.jpg", "download": "assets/gallery/xidian/DSC_1111.jpg", "alt": "校园产业楼" },
+      { "title": "宿舍", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1114.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1114-thumb.jpg", "download": "assets/gallery/xidian/DSC_1114.jpg", "alt": "校园宿舍楼" },
+      { "title": "远望", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1126.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1126-thumb.jpg", "download": "assets/gallery/xidian/DSC_1126.jpg", "alt": "校园远景与山脉" },
+      { "title": "楼间", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1129.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1129-thumb.jpg", "download": "assets/gallery/xidian/DSC_1129.jpg", "alt": "校园宿舍楼之间的蓝天" }
     ]
   }
 ]
