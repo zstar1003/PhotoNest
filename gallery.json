@@ -63,5 +63,91 @@
       { "title": "成都 06", "location": "成都", "dimensions": "3456 × 6144 px", "src": "assets/gallery/chengdu/DJI_20260620154852_0500_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260620154852_0500_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260620154852_0500_D.JPG", "alt": "成都旅途摄影作品 06" },
       { "title": "成都 07", "location": "成都", "dimensions": "3456 × 6144 px", "src": "assets/gallery/chengdu/DJI_20260620162609_0554_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260620162609_0554_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260620162609_0554_D.JPG", "alt": "成都旅途摄影作品 07" }
     ]
+  },
+  {
+    "title": "重庆",
+    "tint": "#6a4232",
+    "cover": "assets/gallery/chongqing/cover-chongqing-06.jpg",
+    "coverAlt": "重庆山城夜景与城市天际线",
+    "description": "重庆旅途中的山城夜景、轨道、动物园与城市肌理。",
+    "photos": [
+      { "title": "重庆 01", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621145349_0610_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621145349_0610_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621145349_0610_D.JPG", "alt": "重庆旅途摄影作品 01" },
+      { "title": "重庆 02", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621155642_0655_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621155642_0655_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621155642_0655_D.JPG", "alt": "重庆旅途摄影作品 02" },
+      { "title": "重庆 03", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621160245_0659_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621160245_0659_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621160245_0659_D.JPG", "alt": "重庆旅途摄影作品 03" },
+      { "title": "重庆 04", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621160934_0668_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621160934_0668_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621160934_0668_D.JPG", "alt": "重庆旅途摄影作品 04" },
+      { "title": "重庆 05", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621165906_0686_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621165906_0686_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621165906_0686_D.JPG", "alt": "重庆旅途摄影作品 05" },
+      { "title": "重庆 06", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621201352_0740_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621201352_0740_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621201352_0740_D.JPG", "alt": "重庆旅途摄影作品 06" },
+      { "title": "重庆 07", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260621203104_0755_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260621203104_0755_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260621203104_0755_D.JPG", "alt": "重庆旅途摄影作品 07" },
+      { "title": "重庆 08", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622110244_0770_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622110244_0770_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622110244_0770_D.JPG", "alt": "重庆旅途摄影作品 08" },
+      { "title": "重庆 09", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622112318_0793_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622112318_0793_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622112318_0793_D.JPG", "alt": "重庆旅途摄影作品 09" },
+      { "title": "重庆 10", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622113011_0804_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622113011_0804_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622113011_0804_D.JPG", "alt": "重庆旅途摄影作品 10" },
+      { "title": "重庆 11", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622113516_0812_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622113516_0812_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622113516_0812_D.JPG", "alt": "重庆旅途摄影作品 11" },
+      { "title": "重庆 12", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622115346_0825_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622115346_0825_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622115346_0825_D.JPG", "alt": "重庆旅途摄影作品 12" },
+      { "title": "重庆 13", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622120603_0832_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622120603_0832_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622120603_0832_D.JPG", "alt": "重庆旅途摄影作品 13" },
+      { "title": "重庆 14", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622122954_0835_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622122954_0835_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622122954_0835_D.JPG", "alt": "重庆旅途摄影作品 14" },
+      { "title": "重庆 15", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622142613_0858_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622142613_0858_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622142613_0858_D.JPG", "alt": "重庆旅途摄影作品 15" },
+      { "title": "重庆 16", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622151448_0871_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622151448_0871_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622151448_0871_D.JPG", "alt": "重庆旅途摄影作品 16" },
+      { "title": "重庆 17", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622151540_0872_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622151540_0872_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622151540_0872_D.JPG", "alt": "重庆旅途摄影作品 17" },
+      { "title": "重庆 18", "location": "重庆", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chongqing/DJI_20260622152734_0884_D.JPG", "thumb": "assets/gallery/chongqing/thumbs/DJI_20260622152734_0884_D-thumb.jpg", "download": "assets/gallery/chongqing/DJI_20260622152734_0884_D.JPG", "alt": "重庆旅途摄影作品 18" }
+    ]
+  },
+  {
+    "title": "洛阳",
+    "tint": "#8a4b2d",
+    "cover": "assets/gallery/luoyang/cover-luoyang-10.jpg",
+    "coverAlt": "洛阳夜色中的宫殿建筑",
+    "description": "洛阳旅途中的古都建筑、龙门石窟与日暮灯火。",
+    "photos": [
+      { "title": "洛阳 01", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623175632_0910_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623175632_0910_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623175632_0910_D.JPG", "alt": "洛阳旅途摄影作品 01" },
+      { "title": "洛阳 02", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623180216_0916_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623180216_0916_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623180216_0916_D.JPG", "alt": "洛阳旅途摄影作品 02" },
+      { "title": "洛阳 03", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623184115_0922_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623184115_0922_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623184115_0922_D.JPG", "alt": "洛阳旅途摄影作品 03" },
+      { "title": "洛阳 04", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623185853_0938_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623185853_0938_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623185853_0938_D.JPG", "alt": "洛阳旅途摄影作品 04" },
+      { "title": "洛阳 05", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623190009_0941_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623190009_0941_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623190009_0941_D.JPG", "alt": "洛阳旅途摄影作品 05" },
+      { "title": "洛阳 06", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623192144_0958_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623192144_0958_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623192144_0958_D.JPG", "alt": "洛阳旅途摄影作品 06" },
+      { "title": "洛阳 07", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623194650_0969_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623194650_0969_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623194650_0969_D.JPG", "alt": "洛阳旅途摄影作品 07" },
+      { "title": "洛阳 08", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623195910_0987_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623195910_0987_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623195910_0987_D.JPG", "alt": "洛阳旅途摄影作品 08" },
+      { "title": "洛阳 09", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623201140_0997_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623201140_0997_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623201140_0997_D.JPG", "alt": "洛阳旅途摄影作品 09" },
+      { "title": "洛阳 10", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260623202409_0004_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260623202409_0004_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260623202409_0004_D.JPG", "alt": "洛阳旅途摄影作品 10" },
+      { "title": "洛阳 11", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624090508_0020_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624090508_0020_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624090508_0020_D.JPG", "alt": "洛阳旅途摄影作品 11" },
+      { "title": "洛阳 12", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624092719_0037_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624092719_0037_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624092719_0037_D.JPG", "alt": "洛阳旅途摄影作品 12" },
+      { "title": "洛阳 13", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624093644_0049_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624093644_0049_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624093644_0049_D.JPG", "alt": "洛阳旅途摄影作品 13" },
+      { "title": "洛阳 14", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624101530_0065_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624101530_0065_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624101530_0065_D.JPG", "alt": "洛阳旅途摄影作品 14" },
+      { "title": "洛阳 15", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624135042_0119_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624135042_0119_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624135042_0119_D.JPG", "alt": "洛阳旅途摄影作品 15" },
+      { "title": "洛阳 16", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624145550_0141_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624145550_0141_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624145550_0141_D.JPG", "alt": "洛阳旅途摄影作品 16" },
+      { "title": "洛阳 17", "location": "洛阳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/luoyang/DJI_20260624150548_0152_D.JPG", "thumb": "assets/gallery/luoyang/thumbs/DJI_20260624150548_0152_D-thumb.jpg", "download": "assets/gallery/luoyang/DJI_20260624150548_0152_D.JPG", "alt": "洛阳旅途摄影作品 17" }
+    ]
+  },
+  {
+    "title": "深圳",
+    "tint": "#3c596b",
+    "cover": "assets/gallery/shenzhen/cover-shenzhen-01.jpg",
+    "coverAlt": "深圳夜间高楼立面",
+    "description": "深圳旅途中的城市高楼、街区与日常片刻。",
+    "photos": [
+      { "title": "深圳 01", "location": "深圳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/shenzhen/DJI_20260629210557_0175_D.JPG", "thumb": "assets/gallery/shenzhen/thumbs/DJI_20260629210557_0175_D-thumb.jpg", "download": "assets/gallery/shenzhen/DJI_20260629210557_0175_D.JPG", "alt": "深圳旅途摄影作品 01" },
+      { "title": "深圳 02", "location": "深圳", "dimensions": "7680 × 4320 px", "src": "assets/gallery/shenzhen/DJI_20260630174412_0277_D.JPG", "thumb": "assets/gallery/shenzhen/thumbs/DJI_20260630174412_0277_D-thumb.jpg", "download": "assets/gallery/shenzhen/DJI_20260630174412_0277_D.JPG", "alt": "深圳旅途摄影作品 02" },
+      { "title": "深圳 03", "location": "深圳", "dimensions": "4096 × 2304 px", "src": "assets/gallery/shenzhen/IMG_20260630_184138.jpg", "thumb": "assets/gallery/shenzhen/thumbs/IMG_20260630_184138-thumb.jpg", "download": "assets/gallery/shenzhen/IMG_20260630_184138.jpg", "alt": "深圳旅途摄影作品 03" },
+      { "title": "深圳 04", "location": "深圳", "dimensions": "4096 × 2304 px", "src": "assets/gallery/shenzhen/IMG_20260630_193430.jpg", "thumb": "assets/gallery/shenzhen/thumbs/IMG_20260630_193430-thumb.jpg", "download": "assets/gallery/shenzhen/IMG_20260630_193430.jpg", "alt": "深圳旅途摄影作品 04" }
+    ]
+  },
+  {
+    "title": "香港",
+    "tint": "#436170",
+    "cover": "assets/gallery/hongkong/cover-hongkong-05.jpg",
+    "coverAlt": "香港维港蓝天与城市天际线",
+    "description": "香港旅途中的维港海面、城市街景与山海光线。",
+    "photos": [
+      { "title": "香港 01", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630124306_0181_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630124306_0181_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630124306_0181_D.JPG", "alt": "香港旅途摄影作品 01" },
+      { "title": "香港 02", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630125450_0201_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630125450_0201_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630125450_0201_D.JPG", "alt": "香港旅途摄影作品 02" },
+      { "title": "香港 03", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630125511_0203_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630125511_0203_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630125511_0203_D.JPG", "alt": "香港旅途摄影作品 03" },
+      { "title": "香港 04", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630125803_0211_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630125803_0211_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630125803_0211_D.JPG", "alt": "香港旅途摄影作品 04" },
+      { "title": "香港 05", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630130448_0219_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630130448_0219_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630130448_0219_D.JPG", "alt": "香港旅途摄影作品 05" },
+      { "title": "香港 06", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630131101_0223_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630131101_0223_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630131101_0223_D.JPG", "alt": "香港旅途摄影作品 06" },
+      { "title": "香港 07", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630160214_0237_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630160214_0237_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630160214_0237_D.JPG", "alt": "香港旅途摄影作品 07" },
+      { "title": "香港 08", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630160327_0242_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630160327_0242_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630160327_0242_D.JPG", "alt": "香港旅途摄影作品 08" },
+      { "title": "香港 09", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630161132_0253_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630161132_0253_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630161132_0253_D.JPG", "alt": "香港旅途摄影作品 09" },
+      { "title": "香港 10", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630161313_0255_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630161313_0255_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630161313_0255_D.JPG", "alt": "香港旅途摄影作品 10" },
+      { "title": "香港 11", "location": "香港", "dimensions": "7680 × 4320 px", "src": "assets/gallery/hongkong/DJI_20260630161915_0258_D.JPG", "thumb": "assets/gallery/hongkong/thumbs/DJI_20260630161915_0258_D-thumb.jpg", "download": "assets/gallery/hongkong/DJI_20260630161915_0258_D.JPG", "alt": "香港旅途摄影作品 11" }
+    ]
   }
 ]
