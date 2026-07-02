@@ -22,5 +22,30 @@
       { "title": "远望", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1126.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1126-thumb.jpg", "download": "assets/gallery/xidian/DSC_1126.jpg", "alt": "校园远景与山脉" },
       { "title": "楼间", "location": "西安电子科技大学 · 西安", "dimensions": "6064 × 4040 px", "src": "assets/gallery/xidian/DSC_1129.jpg", "thumb": "assets/gallery/xidian/thumbs/DSC_1129-thumb.jpg", "download": "assets/gallery/xidian/DSC_1129.jpg", "alt": "校园宿舍楼之间的蓝天" }
     ]
+  },
+  {
+    "title": "西安",
+    "tint": "#6b513a",
+    "cover": "assets/gallery/xian/cover.jpg",
+    "coverAlt": "西安旅途摄影封面",
+    "description": "西安旅途中的城市、天际线与夏日光影。",
+    "photos": [
+      { "title": "西安 01", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610175538_0052_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610175538_0052_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610175538_0052_D.JPG", "alt": "西安旅途摄影作品 01" },
+      { "title": "西安 02", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610175711_0057_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610175711_0057_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610175711_0057_D.JPG", "alt": "西安旅途摄影作品 02" },
+      { "title": "西安 03", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610182025_0107_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610182025_0107_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610182025_0107_D.JPG", "alt": "西安旅途摄影作品 03" },
+      { "title": "西安 04", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610183226_0124_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610183226_0124_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610183226_0124_D.JPG", "alt": "西安旅途摄影作品 04" },
+      { "title": "西安 05", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610202424_0161_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610202424_0161_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610202424_0161_D.JPG", "alt": "西安旅途摄影作品 05" },
+      { "title": "西安 06", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610202634_0164_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610202634_0164_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610202634_0164_D.JPG", "alt": "西安旅途摄影作品 06" },
+      { "title": "西安 07", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610205639_0190_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610205639_0190_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610205639_0190_D.JPG", "alt": "西安旅途摄影作品 07" },
+      { "title": "西安 08", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610210254_0193_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610210254_0193_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610210254_0193_D.JPG", "alt": "西安旅途摄影作品 08" },
+      { "title": "西安 09", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610211733_0212_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610211733_0212_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610211733_0212_D.JPG", "alt": "西安旅途摄影作品 09" },
+      { "title": "西安 10", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618095135_0221_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618095135_0221_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618095135_0221_D.JPG", "alt": "西安旅途摄影作品 10" },
+      { "title": "西安 11", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618100012_0233_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618100012_0233_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618100012_0233_D.JPG", "alt": "西安旅途摄影作品 11" },
+      { "title": "西安 12", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618100537_0244_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618100537_0244_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618100537_0244_D.JPG", "alt": "西安旅途摄影作品 12" },
+      { "title": "西安 13", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618111058_0292_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618111058_0292_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618111058_0292_D.JPG", "alt": "西安旅途摄影作品 13" },
+      { "title": "西安 14", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618112837_0309_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618112837_0309_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618112837_0309_D.JPG", "alt": "西安旅途摄影作品 14" },
+      { "title": "西安 15", "location": "西安", "dimensions": "4000 × 4042 px", "src": "assets/gallery/xian/DJI_20260618113349_0326_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618113349_0326_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618113349_0326_D.JPG", "alt": "西安旅途摄影作品 15" },
+      { "title": "西安 16", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618113632_0327_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618113632_0327_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618113632_0327_D.JPG", "alt": "西安旅途摄影作品 16" }
+    ]
   }
 ]

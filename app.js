@@ -308,7 +308,7 @@ document.addEventListener('keydown', (event) => {
   if (contactSheet.classList.contains('is-open') && event.key === 'Escape') closeContactSheet();
 });
 
-fetch('./gallery.json?v=20260702-3')
+fetch('./gallery.json?v=20260702-4')
   .then((response) => { if (!response.ok) throw new Error('Could not load albums'); return response.json(); })
   .then((data) => { albums = data; renderShelf(); })
   .catch(() => showToast('相册暂时无法加载。请检查 gallery.json。'));
