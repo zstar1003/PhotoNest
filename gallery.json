@@ -27,7 +27,7 @@
     "title": "西安",
     "tint": "#6b513a",
     "cover": "assets/gallery/xian/cover.jpg",
-    "coverAlt": "西安旅途摄影封面",
+    "coverAlt": "西安夜景舞台与灯光",
     "description": "西安旅途中的城市、天际线与夏日光影。",
     "photos": [
       { "title": "西安 01", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260610175538_0052_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260610175538_0052_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260610175538_0052_D.JPG", "alt": "西安旅途摄影作品 01" },
@@ -46,6 +46,22 @@
       { "title": "西安 14", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618112837_0309_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618112837_0309_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618112837_0309_D.JPG", "alt": "西安旅途摄影作品 14" },
       { "title": "西安 15", "location": "西安", "dimensions": "4000 × 4042 px", "src": "assets/gallery/xian/DJI_20260618113349_0326_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618113349_0326_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618113349_0326_D.JPG", "alt": "西安旅途摄影作品 15" },
       { "title": "西安 16", "location": "西安", "dimensions": "7680 × 4320 px", "src": "assets/gallery/xian/DJI_20260618113632_0327_D.JPG", "thumb": "assets/gallery/xian/thumbs/DJI_20260618113632_0327_D-thumb.jpg", "download": "assets/gallery/xian/DJI_20260618113632_0327_D.JPG", "alt": "西安旅途摄影作品 16" }
+    ]
+  },
+  {
+    "title": "成都",
+    "tint": "#4d5b63",
+    "cover": "assets/gallery/chengdu/cover.jpg",
+    "coverAlt": "成都城市夜景与恐龙屏幕",
+    "description": "成都旅途中的城市夜景、街区灯光与博物馆展陈。",
+    "photos": [
+      { "title": "成都 01", "location": "成都", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chengdu/DJI_20260619202914_0428_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260619202914_0428_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260619202914_0428_D.JPG", "alt": "成都旅途摄影作品 01" },
+      { "title": "成都 02", "location": "成都", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chengdu/DJI_20260619203127_0430_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260619203127_0430_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260619203127_0430_D.JPG", "alt": "成都旅途摄影作品 02" },
+      { "title": "成都 03", "location": "成都", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chengdu/DJI_20260619203929_0435_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260619203929_0435_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260619203929_0435_D.JPG", "alt": "成都旅途摄影作品 03" },
+      { "title": "成都 04", "location": "成都", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chengdu/DJI_20260619204335_0438_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260619204335_0438_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260619204335_0438_D.JPG", "alt": "成都旅途摄影作品 04" },
+      { "title": "成都 05", "location": "成都", "dimensions": "7680 × 4320 px", "src": "assets/gallery/chengdu/DJI_20260620154641_0495_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260620154641_0495_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260620154641_0495_D.JPG", "alt": "成都旅途摄影作品 05" },
+      { "title": "成都 06", "location": "成都", "dimensions": "3456 × 6144 px", "src": "assets/gallery/chengdu/DJI_20260620154852_0500_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260620154852_0500_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260620154852_0500_D.JPG", "alt": "成都旅途摄影作品 06" },
+      { "title": "成都 07", "location": "成都", "dimensions": "3456 × 6144 px", "src": "assets/gallery/chengdu/DJI_20260620162609_0554_D.JPG", "thumb": "assets/gallery/chengdu/thumbs/DJI_20260620162609_0554_D-thumb.jpg", "download": "assets/gallery/chengdu/DJI_20260620162609_0554_D.JPG", "alt": "成都旅途摄影作品 07" }
     ]
   }
 ]
