@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="PhotoNest — a high-resolution photography bookshelf." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23141110'/%3E%3Cpath d='M16 46V18h13c10 0 16 5 16 14s-6 14-16 14h-4V34h4c4 0 7-1 7-5s-3-5-7-5h-4v22z' fill='%23f2eee6'/%3E%3C/svg%3E" />
+    <title>PhotoNest</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=20260702-9" />
+  </head>
+  <body>
+    <div class="noise" aria-hidden="true"></div>
+    <main class="library" aria-labelledby="site-title">
+      <header class="library-header">
+        <p class="folio">No. 01 — 2026</p>
+        <h1 id="site-title">PhotoNest</h1>
+      </header>
+
+      <section class="album-shelf" id="album-shelf" aria-label="摄影相册"></section>
+
+      <footer class="library-footer">
+        <p><span class="key">←</span><span class="key">→</span> 翻阅作品</p>
+      </footer>
+    </main>
+
+    <section class="contact-sheet" id="contact-sheet" aria-label="相册缩略图浏览" aria-hidden="true">
+      <header class="contact-header">
+        <button class="text-button back-button" id="close-contact-sheet" type="button">← 返回相册</button>
+        <div class="contact-title-group">
+          <p class="contact-title" id="contact-title"></p>
+          <p class="contact-count" id="contact-count"></p>
+        </div>
+      </header>
+
+      <div class="photo-grid" id="photo-grid" aria-label="相册照片缩略图"></div>
+
+      <footer class="contact-footer">
+        <p id="contact-description"></p>
+        <p>选择一张照片查看原图</p>
+      </footer>
+    </section>
+
+    <section class="reader" id="reader" aria-label="摄影画册阅读器" aria-hidden="true">
+      <header class="reader-header">
+        <button class="text-button back-button close-reader" id="close-reader" type="button">← 返回上级</button>
+        <p class="reader-title" id="reader-title"></p>
+        <div class="reader-actions">
+          <button class="text-button fullscreen-button" id="fullscreen-button" type="button" aria-label="全屏查看照片" title="全屏查看照片">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 3H3v5M16 3h5v5M21 16v5h-5M3 16v5h5" /></svg>
+          </button>
+          <button class="text-button" id="download-button" type="button">下载原图 <span>↓</span></button>
+        </div>
+      </header>
+
+      <div class="reader-stage">
+        <button class="page-hit prev" id="previous-page" type="button" aria-label="上一页"></button>
+        <figure class="photo-page" id="photo-page">
+          <div class="image-frame" id="image-frame" aria-busy="true">
+            <img class="reader-image" id="reader-image-a" alt="" />
+            <img class="reader-image" id="reader-image-b" alt="" />
+            <button class="fullscreen-page-control previous" id="fullscreen-previous-page" type="button" aria-label="上一张照片">←</button>
+            <button class="fullscreen-page-control next" id="fullscreen-next-page" type="button" aria-label="下一张照片">→</button>
+          </div>
+          <figcaption>
+            <span id="photo-caption"></span>
+            <span id="photo-details"></span>
+          </figcaption>
+        </figure>
+        <button class="page-hit next" id="next-page" type="button" aria-label="下一页"></button>
+      </div>
+
+      <footer class="reader-footer">
+        <p id="album-description"></p>
+        <p class="pagination"><span id="current-page">01</span> / <span id="total-pages">01</span></p>
+      </footer>
+    </section>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
+    <script src="./app.js?v=20260702-9"></script>
+  </body>
+</html>
