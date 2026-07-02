@@ -207,8 +207,8 @@ function openPhoto(index) {
   if (!activeAlbum || !activeAlbum.photos[index]) return;
   pageIndex = index;
   resetImageLayers();
-  closeReaderButton.textContent = '← 返回相册';
-  closeReaderButton.setAttribute('aria-label', '返回相册');
+  closeReaderButton.textContent = '← 返回上级';
+  closeReaderButton.setAttribute('aria-label', '返回上级');
   photoCaption.textContent = '';
   photoDetails.textContent = '';
   reader.classList.add('is-open');
@@ -308,7 +308,7 @@ document.addEventListener('keydown', (event) => {
   if (contactSheet.classList.contains('is-open') && event.key === 'Escape') closeContactSheet();
 });
 
-fetch('./gallery.json?v=20260702-2')
+fetch('./gallery.json?v=20260702-3')
   .then((response) => { if (!response.ok) throw new Error('Could not load albums'); return response.json(); })
   .then((data) => { albums = data; renderShelf(); })
   .catch(() => showToast('相册暂时无法加载。请检查 gallery.json。'));
